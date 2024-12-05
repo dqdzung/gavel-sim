@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.dqdzung.myapp'
+    namespace 'com.dqdz.gavel.sim'
     defaultConfig {
-        applicationId 'com.dqdzung.myapp'
+        applicationId 'com.dqdz.gavel.sim'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

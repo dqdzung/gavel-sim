@@ -39,3 +39,6 @@ allprojects {
         maven { url 'https://www.jitpack.io' }
     }
 }
+
+def enableSeparateBuildPerCPUArchitecture = true
+def enableProguardInReleaseBuilds = true

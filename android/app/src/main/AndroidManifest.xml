@@ -27,8 +27,8 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="myapp"/>
-        <data android:scheme="com.dqdzung.myapp"/>
-        <data android:scheme="exp+gavel-sim"/>
+        <data android:scheme="com.dqdz.gavel.sim"/>
+        <data android:scheme="exp+my-app"/>
       </intent-filter>
     </activity>
     <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false"/>

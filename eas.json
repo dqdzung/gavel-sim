@@ -12,11 +12,17 @@
 		},
 		"preview": {
 			"android": {
+				"applicationArchivePath": "android/app/build/outputs/apk/release/app-release.apk",
 				"buildType": "apk"
 			},
 			"distribution": "internal"
 		},
-		"production": {}
+		"production": {
+			"android": {
+				"buildType": "app-bundle"
+				// "buildType": "apk"
+			}
+		}
 	},
 	"submit": {
 		"production": {}

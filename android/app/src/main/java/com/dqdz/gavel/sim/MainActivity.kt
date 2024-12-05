@@ -1,4 +1,4 @@
-package com.dqdzung.myapp
+package com.dqdz.gavel.sim
 
 import android.os.Build
 import android.os.Bundle
